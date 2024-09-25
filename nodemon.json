@@ -1,0 +1,4 @@
+{
+	"watch": ["src"],
+	"ignore": ["src/uploads", "src/manga", "src/_ocr", "*.txt"]
+}

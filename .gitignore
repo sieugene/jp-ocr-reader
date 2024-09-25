@@ -1,0 +1,7 @@
+/node_modules
+.env
+_ocr
+*.mokuro
+*.html
+uploads
+.DS_Store
